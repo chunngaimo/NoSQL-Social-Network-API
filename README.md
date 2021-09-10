@@ -13,7 +13,6 @@ An API for a social network that uses a NoSQL database, which is able to handle 
   - [Installation](#installation)
   - [Usage](#usage)
   - [Walkthrough Video](#walkthrough-video)
-  - [Screenshot](#screenshot)
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions](#questions)
@@ -41,12 +40,6 @@ An API for a social network that uses a NoSQL database, which is able to handle 
 ## Walkthrough Video
 
 Walk through video here - [Youtube Link](https://www.youtube.com/watch?v=DYJ3OeqlAW4)
-
----
-
-## Screenshots
-
-![](source/images/noSQL.jpg)
 
 ---
 
