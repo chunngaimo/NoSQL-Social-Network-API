@@ -13,7 +13,7 @@ An API for a social network that uses a NoSQL database, which is able to handle 
   - [Installation](#installation)
   - [Usage](#usage)
   - [Walkthrough Video](#walkthrough-video)
-  - [Screenshots](#Screenshots)
+  - [Screenshot](#Screenshot)
   - [License](#License)
   - [Contributing](#Contributing)
   - [Questions](#Questions)
